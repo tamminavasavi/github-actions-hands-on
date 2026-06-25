@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-hands-on",
+  "version": "1.0.0",
+  "description": "GitHub Actions hands-on project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node build.js",
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
